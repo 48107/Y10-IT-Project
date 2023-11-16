@@ -1,0 +1,80 @@
+V:\DIT 2023\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.AssemblyReference.cache
+V:\DIT 2023\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.SuggestedBindingRedirects.cache
+V:\DIT 2023\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Resources.resources
+V:\DIT 2023\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Seller.resources
+V:\DIT 2023\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.GenerateResource.cache
+V:\DIT 2023\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.CoreCompileInputs.cache
+V:\DIT 2023\TicketSystem\TicketSystem\bin\Debug\TicketSystem.exe.config
+V:\DIT 2023\TicketSystem\TicketSystem\bin\Debug\TicketSystem.exe
+V:\DIT 2023\TicketSystem\TicketSystem\bin\Debug\TicketSystem.pdb
+V:\DIT 2023\TicketSystem\TicketSystem\bin\Debug\TicketSystem.xml
+V:\DIT 2023\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Form1.resources
+V:\DIT 2023\TicketSystem\TicketSystem\obj\Debug\TicketSystem.exe
+V:\DIT 2023\TicketSystem\TicketSystem\obj\Debug\TicketSystem.xml
+V:\DIT 2023\TicketSystem\TicketSystem\obj\Debug\TicketSystem.pdb
+V:\DIT 2023\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Scanner.resources
+V:\DIT 2023\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Admin.resources
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\bin\Debug\TicketSystem.exe.config
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\bin\Debug\TicketSystem.exe
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\bin\Debug\TicketSystem.pdb
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\bin\Debug\TicketSystem.xml
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.AssemblyReference.cache
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.SuggestedBindingRedirects.cache
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Admin.resources
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Form1.resources
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Resources.resources
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Scanner.resources
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Seller.resources
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.GenerateResource.cache
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.CoreCompileInputs.cache
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\obj\Debug\TicketSystem.exe
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\obj\Debug\TicketSystem.xml
+V:\DIT 2023\TSNew\TicketSystem\TicketSystem\obj\Debug\TicketSystem.pdb
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\bin\Debug\TicketSystem.exe.config
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\bin\Debug\TicketSystem.exe
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\bin\Debug\TicketSystem.pdb
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\bin\Debug\TicketSystem.xml
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.AssemblyReference.cache
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Admin.resources
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Form1.resources
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Resources.resources
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Scanner.resources
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Seller.resources
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.GenerateResource.cache
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.CoreCompileInputs.cache
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\obj\Debug\TicketSystem.exe
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\obj\Debug\TicketSystem.xml
+C:\Users\aweso\Downloads\TicketSystem\TicketSystem\obj\Debug\TicketSystem.pdb
+V:\DIT 2023\TS\TicketSystem\TicketSystem\bin\Debug\TicketSystem.exe.config
+V:\DIT 2023\TS\TicketSystem\TicketSystem\bin\Debug\TicketSystem.exe
+V:\DIT 2023\TS\TicketSystem\TicketSystem\bin\Debug\TicketSystem.pdb
+V:\DIT 2023\TS\TicketSystem\TicketSystem\bin\Debug\TicketSystem.xml
+V:\DIT 2023\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.AssemblyReference.cache
+V:\DIT 2023\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.SuggestedBindingRedirects.cache
+V:\DIT 2023\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Admin.resources
+V:\DIT 2023\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Form1.resources
+V:\DIT 2023\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Resources.resources
+V:\DIT 2023\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Scanner.resources
+V:\DIT 2023\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Seller.resources
+V:\DIT 2023\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.GenerateResource.cache
+V:\DIT 2023\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.CoreCompileInputs.cache
+V:\DIT 2023\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.exe
+V:\DIT 2023\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.xml
+V:\DIT 2023\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.pdb
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\bin\Debug\TicketSystem.exe.config
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\bin\Debug\TicketSystem.exe
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\bin\Debug\TicketSystem.pdb
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\bin\Debug\TicketSystem.xml
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.AssemblyReference.cache
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Admin.resources
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Form1.resources
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Resources.resources
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Scanner.resources
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Seller.resources
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.GenerateResource.cache
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.vbproj.CoreCompileInputs.cache
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.exe
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.xml
+C:\Users\aweso\Downloads\TS\TicketSystem\TicketSystem\obj\Debug\TicketSystem.pdb
